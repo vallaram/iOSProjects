@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='MovieTriviaUITests.xctest' tests='3' failures='0'>
+  <testsuite name='MovieTriviaUITests.ExampleTest' tests='1' failures='0'>
+    <testcase classname='MovieTriviaUITests.ExampleTest' name='testQuestionAppears' time='6.808'/>
+  </testsuite>
+  <testsuite name='MovieTriviaUITests.MovieTriviaUITests' tests='2' failures='0'>
+    <testcase classname='MovieTriviaUITests.MovieTriviaUITests' name='testAnswerValidation' time='9.016'/>
+    <testcase classname='MovieTriviaUITests.MovieTriviaUITests' name='testQuestionAppears' time='6.909'/>
+  </testsuite>
+</testsuites>
