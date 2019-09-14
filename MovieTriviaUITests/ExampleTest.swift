@@ -73,4 +73,9 @@ class ExampleTest: XCTestCase {
         
     }
     
+    func testMyFunction() {
+        
+        print("welcome to java programming")
+        
+    }
 }
